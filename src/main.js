@@ -1,3 +1,5 @@
+import d3 from 'd3';
+
 const width = 500;
 const height = 500;
 const legendSize = 10;
