@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>KnowledgePartition</title>
+  </head>
+  <style>
+
+    div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 0px;
+    font-size: 12px;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: lightgray;
+    border: 0px;
+    border-radius: 0px;
+    pointer-events: none;
+  }
+
+  div.legend {
+    text-align: center;
+    padding: 0px;
+    font-size: 8px;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: lightgray;
+    border: 0px;
+    border-radius: 0px;
+  }
+
+  </style>
+  <body>
+    <div id="vis"></div>
+    <div>
+      <label><input type="radio" name="perspective" value="type" checked>Type</label>
+      <label><input type="radio" name="perspective" value="proficiency">Proficiency</label>
+    </div>
+    
+    <script src="node_modules/d3/d3.min.js" charset="utf-8"></script>
+    <script src="src/main.js" charset="utf-8"></script>
+  </body>
+</html>

@@ -1,0 +1,571 @@
+{
+  "name": "My Knowledge Nexus",
+  "children": [
+    {
+      "name": "MUSC-BMIC",
+      "type": "group",
+      "children": [
+        {
+          "name": "linkedCT",
+          "type": "project",
+          "children": [
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Open Linked Data",
+              "type": "methodology",
+              "proficiency": 6,
+              "children": [
+                {
+                  "name": "SPARQL",
+                  "type": "language",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "RDF/XML",
+                  "type": "language",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "Ontologies",
+                  "type": "language",
+                  "proficiency": 5,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Translational Science Visualization",
+          "type": "project",
+          "children": [
+            {
+              "name": "Open Linked Data",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": [
+                {
+                  "name": "SPARQL",
+                  "type": "language",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "RDF/XML",
+                  "type": "language",
+                  "proficiency": 8,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Data Science",
+              "type": "methodology",
+              "proficiency": 5,
+              "children": [
+                {
+                  "name": "Graph Theory",
+                  "type": "methodology",
+                  "proficiency": 7,
+                  "children": [
+                    {
+                      "name": "Graph Database",
+                      "type": "database",
+                      "proficiency": 7,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Translational Science Research",
+                  "type": "methodology",
+                  "proficiency": 6,
+                  "children": []
+                },
+                {
+                  "name": "Bioinformatics",
+                  "type": "methodology",
+                  "proficiency": 6,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Agile",
+              "type": "methodology",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "TDD",
+                  "type": "methodology",
+                  "proficiency": 9,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "Karma",
+                  "type": "library",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "Jasmine",
+                  "type": "library",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "RequireJS",
+                  "type": "library",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "PhantomJS",
+                  "type": "library",
+                  "proficiency": 3,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "COFC-CIRDLES",
+      "type": "group",
+      "children": [
+        {
+          "name": "Topsoil",
+          "type": "project",
+          "children": [
+            {
+              "name": "Java 8",
+              "type": "language",
+              "proficiency": 7,
+              "children": [
+                {
+                  "name": "Webkit",
+                  "type": "library",
+                  "proficiency": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "Karma",
+                  "type": "library",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "Jasmine",
+                  "type": "library",
+                  "proficiency": 5,
+                  "children": []
+                },
+                {
+                  "name": "BusterJS",
+                  "type": "library",
+                  "proficiency": 2,
+                  "children": []
+                },
+                {
+                  "name": "PhantomJS",
+                  "type": "library",
+                  "proficiency": 3,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Geology",
+              "type": "methodology",
+              "proficiency": 7,
+              "children": []
+            },
+            {
+              "name": "DevOps",
+              "type": "methodology",
+              "proficiency": 6,
+              "children": [
+                {
+                  "name": "QA",
+                  "type": "methodology",
+                  "proficiency": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "School Projects",
+      "type": "group",
+      "children": [
+        {
+          "name": "TeaMate",
+          "type": "project",
+          "children": [
+            {
+              "name": "H/FOSS",
+              "type": "methodology",
+              "proficiency": 7,
+              "children": []
+            },
+            {
+              "name": "Unit Testing",
+              "type": "methodology",
+              "proficiency": 9,
+              "children": []
+            },
+            {
+              "name": "Test Suite Design",
+              "type": "methodology",
+              "proficiency": 7,
+              "children": []
+            },
+            {
+              "name": "Group Collaboration",
+              "type": "methodology",
+              "proficiency": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Wally's Wacky Wand Shoppe",
+          "type": "project",
+          "children": [
+            {
+              "name": "Full Stack Development",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "PHP",
+              "type": "language",
+              "proficiency": 5,
+              "children": []
+            },
+            {
+              "name": "Database Design",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "MySQL",
+              "type": "language",
+              "proficiency": 9,
+              "children": []
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "Angular",
+                  "type": "library",
+                  "proficiency": 6,
+                  "children": []
+                },
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Personal Projects",
+      "type": "group",
+      "children": [
+        {
+          "name": "VisualTree",
+          "type": "project",
+          "children": [
+            {
+              "name": "Algorithm Design",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "Graph Theory",
+              "type": "methodology",
+              "proficiency": 7,
+              "children": []
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "Mocha",
+                  "type": "library",
+                  "proficiency": 10,
+                  "children": []
+                },
+                {
+                  "name": "Chai",
+                  "type": "library",
+                  "proficiency": 9,
+                  "children": []
+                },
+                {
+                  "name": "ES6",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "Webpack",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "Node",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "VotingExample",
+          "type": "project",
+          "children": [
+            {
+              "name": "Functional Programming",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "React",
+                  "type": "library",
+                  "proficiency": 6,
+                  "children": []
+                },
+                {
+                  "name": "Redux",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "Mocha",
+                  "type": "library",
+                  "proficiency": 10,
+                  "children": []
+                },
+                {
+                  "name": "Chai",
+                  "type": "library",
+                  "proficiency": 9,
+                  "children": []
+                },
+                {
+                  "name": "Immutable",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "ES6",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "Webpack",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whiteboard",
+          "type": "project",
+          "children": [
+            {
+              "name": "NPM Package",
+              "type": "library",
+              "proficiency": 9,
+              "children": []
+            },
+            {
+              "name": "Javascript",
+              "type": "language",
+              "proficiency": 9,
+              "children": [
+                {
+                  "name": "Mocha",
+                  "type": "library",
+                  "proficiency": 10,
+                  "children": []
+                },
+                {
+                  "name": "Chai",
+                  "type": "library",
+                  "proficiency": 9,
+                  "children": []
+                },
+                {
+                  "name": "Immutable",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "ES6",
+                  "type": "library",
+                  "proficiency": 8,
+                  "children": []
+                },
+                {
+                  "name": "Webpack",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "D3",
+                  "type": "library",
+                  "proficiency": 7,
+                  "children": []
+                },
+                {
+                  "name": "socket.io",
+                  "type": "library",
+                  "proficiency": 6,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RustForge",
+          "type": "project",
+          "children": [
+            {
+              "name": "Funcitonal Programming",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "RESTful API",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "MongoDB",
+              "type": "database",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "Open Data",
+              "type": "methodology",
+              "proficiency": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "ConnectFour",
+          "type": "project",
+          "children": [
+            {
+              "name": "Bootstrap",
+              "type": "library",
+              "proficiency": 8,
+              "children": []
+            },
+            {
+              "name": "D3",
+              "type": "library",
+              "proficiency": 7,
+              "children": []
+            },
+            {
+              "name": "Game Logic",
+              "type": "methodology",
+              "proficiency": 7,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
